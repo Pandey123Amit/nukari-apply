@@ -1,0 +1,65 @@
+{
+  "search": {
+    "keywords": [
+      "Python Developer",
+      "Full Stack Developer",
+      "Backend Developer",
+      "Django Developer",
+      "Flask Developer",
+      "Node.js Developer",
+      "Software Engineer"
+    ],
+    "location": [
+      "New Delhi",
+      "Noida",
+      "Gurugram",
+      "Bangalore",
+      "Hyderabad",
+      "Remote"
+    ],
+    "experience": {
+      "min": 0,
+      "max": 1.5
+    },
+    "salary_min": 600000,
+    "job_type": "fulltime"
+  },
+  "filters": {
+    "blacklist_companies": [],
+    "skip_already_applied": true,
+    "max_daily_apply": 50
+  },
+  "profile": {
+    "skills": [
+      "Python",
+      "Django",
+      "Flask",
+      "REST APIs",
+      "PostgreSQL",
+      "MySQL",
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "Express.js",
+      "React.js",
+      "HTML",
+      "CSS",
+      "Git",
+      "GitHub",
+      "Docker",
+      "Kafka",
+      "JWT Authentication",
+      "OAuth",
+      "Swagger",
+      "Postman",
+      "Microservices",
+      "SQL Query Optimization",
+      "API Documentation",
+      "Error Handling",
+      "Unit Testing",
+      "Linux (Ubuntu)"
+    ],
+    "headline": "Backend / Full Stack Developer | Python | Django | React | PostgreSQL",
+    "auto_refresh_daily": true
+  }
+}
